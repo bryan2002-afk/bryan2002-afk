@@ -12,9 +12,11 @@ Desarrollo web · Bases de datos · Sistemas de información
 
 </div>
 
-
+<!--
 🔗 
 https://bryan2002-afk.github.io/web/
+-->
+
 ---
 
 ## 👨‍💻 Sobre mí

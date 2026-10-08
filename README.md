@@ -10,8 +10,6 @@ Desarrollo web · Bases de datos · Sistemas de información
 -->
 [![GitHub](https://img.shields.io/badge/GitHub-bryan2002--afk-181717?style=for-the-badge&logo=github)](https://github.com/bryan2002-afk)
 
-Desarrollo web · Bases de datos · Sistemas de información
-
 </div>
 
 ---

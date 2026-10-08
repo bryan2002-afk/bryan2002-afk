@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Bryan Julián Suriano Ramírez
 
-### 💻 Ingeniero en Sistemas Computacionales
+### 💻 Egresado en Ingeniería en Sistemas Computacionales
 
 Desarrollo web · Bases de datos · Sistemas de información
 
@@ -60,28 +60,6 @@ Actualmente continúo fortaleciendo mis conocimientos y experiencia en el desarr
 
 ## 🚀 Proyectos destacados
 
-### 🌊 WAVE
-
-**Web Account and Virtual Environment**
-
-Sistema web desarrollado para gestionar cuentas y servicios web desde una interfaz centralizada.
-
-**Características:**
-
-- 🔐 Autenticación de usuarios
-- 👤 Gestión de usuarios
-- 🌐 Gestión de servicios
-- 📁 Gestión de cuentas
-- 🗄️ Base de datos SQLite
-- 🔒 Manejo de sesiones
-- 📱 Diseño adaptable a dispositivos móviles
-- 🖼️ Gestión de imágenes
-
-🔗 **Repositorio:**  
-https://github.com/bryan2002-afk/wave
-
----
-
 ### 🎓 GEHAC
 
 **Gestión de Horas Académicas y Culturales**
@@ -101,14 +79,25 @@ https://github.com/bryan2002-afk/GEHAC
 
 ---
 
-### 📱 WAVE Lite
+### 📱 Wave Lite
 
-Versión ligera de WAVE utilizando **SQLite** como sistema de almacenamiento.
+**Web Account and Virtual Environment**
 
-El proyecto busca ofrecer una alternativa sencilla y portable para la administración de cuentas y servicios web.
+Sistema web desarrollado para gestionar cuentas y servicios web desde una interfaz centralizada.
+
+**Características:**
+
+- 🔐 Autenticación de usuarios
+- 👤 Gestión de usuarios
+- 🌐 Gestión de servicios
+- 📁 Gestión de cuentas
+- 🗄️ Base de datos SQLite
+- 🔒 Manejo de sesiones
+- 📱 Diseño adaptable a dispositivos móviles
+- 🖼️ Gestión de imágenes
 
 🔗 **Repositorio:**  
-https://github.com/bryan2002-afk/wave-lite
+https://github.com/bryan2002-afk/Wave_Lite
 
 ---
 
@@ -135,6 +124,8 @@ https://github.com/bryan2002-afk/wave-lite
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryan2002-afk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bryan-julian-suriano-ramirez-09578a273)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surianobryan38@gmail.com)
 
 <!-- Agrega tus enlaces cuando los tengas -->
 

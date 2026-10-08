@@ -124,7 +124,7 @@ https://github.com/bryan2002-afk/Wave_Lite
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryan2002-afk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bryan-julian-suriano-ramirez-09578a273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-julian-suriano-ramirez-09578a273/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surianobryan38@gmail.com)
 
 <!-- Agrega tus enlaces cuando los tengas -->
